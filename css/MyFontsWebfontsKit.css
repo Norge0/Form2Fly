@@ -1,0 +1,46 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3186324, 2016-03-14T15:26:06-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: EgyptienneFLT-Italic by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/egyptienne-f/56-italic-63931/
+ * 
+ * Webfont: EgyptienneFLT-Roman by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/egyptienne-f/55-roman-63931/
+ * 
+ * Webfont: EgyptienneFLT-Bold by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/egyptienne-f/65-bold-63931/
+ * 
+ * Webfont: EgyptienneFLT-Black by Linotype
+ * URL: http://www.myfonts.com/fonts/linotype/egyptienne-f/75-black-63931/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3186324
+ * Licensed pageviews: 250,000
+ * Webfonts copyright: Part of the digitally encoded machine readable outline data for producing the Typefaces provided is copyrighted (c) 1991, 2003 Linotype Library GmbH, www.linotype.com. All rights reserved. This software is the property of Linotype Library GmbH, and may no
+ * 
+ * © 2016 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/309e94");
+
+  
+@font-face {font-family: 'EgyptienneFLT-Italic';src: url('webfonts/309E94_0_0.eot');src: url('webfonts/309E94_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/309E94_0_0.woff2') format('woff2'),url('webfonts/309E94_0_0.woff') format('woff'),url('webfonts/309E94_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'EgyptienneFLT-Roman';src: url('webfonts/309E94_1_0.eot');src: url('webfonts/309E94_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/309E94_1_0.woff2') format('woff2'),url('webfonts/309E94_1_0.woff') format('woff'),url('webfonts/309E94_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'EgyptienneFLT-Bold';src: url('webfonts/309E94_2_0.eot');src: url('webfonts/309E94_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/309E94_2_0.woff2') format('woff2'),url('webfonts/309E94_2_0.woff') format('woff'),url('webfonts/309E94_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'EgyptienneFLT-Black';src: url('webfonts/309E94_3_0.eot');src: url('webfonts/309E94_3_0.eot?#iefix') format('embedded-opentype'),url('webfonts/309E94_3_0.woff2') format('woff2'),url('webfonts/309E94_3_0.woff') format('woff'),url('webfonts/309E94_3_0.ttf') format('truetype');}
+ 
