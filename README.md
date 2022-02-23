@@ -1,6 +1,6 @@
 # Form2Fly
 
-<B>CEBDSIG</B><br>
+<B>Curso de extensão de privilégios para Touring Motor Glider</B><br>
 Trabalho prático – Relatório e Apresentação</B><br>
 # Normalização de Base Dados Relacional
 Unidade curricular - <B>Criação e Estruturação de Bases de Dados em SIG</B> 2021/22<br>
@@ -16,4 +16,4 @@ Relatório: Relatório_CEBDSIG 2021-22.pdf<br>
 BDR em Access: TrabPratico_Database.accdb<br>
 <p></p>
 <B>Esquema Relacional</B>
-<img src="imag/hqdefault.jpg" alt="image" width="" height="500">
+<img src="img/hqdefault.jpg" alt="image" width="" height="500">
